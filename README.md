@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amy Dripchak</h1>
 <h3 align="center">Empathetic Developer and Lifelong Learner | Crafting Code, Stories, and Connections</h3>
 
-- 🔭 I’m currently working on [LS180](https://github.com/infinitegame22/LS180)
+- 🔭 I’m currently working on [LS185](https://github.com/infinitegame22/todos)
 
 - 🌱 I’m currently learning **PSQL, Sinatra, Python**
 

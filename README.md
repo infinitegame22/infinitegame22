@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby**
 
-- 📫 How to reach me **rejuvenatingserendipity@gmail.com**
+- 📫 How to reach me **adripchak@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

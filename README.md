@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amy Dripchak</h1>
 <h3 align="center">Empathetic Developer and Lifelong Learner | Crafting Code, Stories, and Connections</h3>
 
-- 🔭 I’m currently working on [LS185](https://github.com/infinitegame22/todos)
+- 🔭 I’m currently working on [LS189](https://github.com/infinitegame22/todos)
 
-- 🌱 I’m currently learning **PSQL, Sinatra, Python**
+- 🌱 I’m currently learning **PSQL, Sinatra, Rake**
 
 - 🤝 I’m looking for help with [RB175 Optional Project for Sinatra - Cookbook](https://github.com/infinitegame22/cookbook_take2)
 

@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amy Dripchak</h1>
 <h3 align="center">Empathetic Developer and Lifelong Learner | Crafting Code, Stories, and Connections</h3>
 
-- 🔭 I’m currently working on [LS189](https://github.com/infinitegame22/todos)
+- 🔭 I’m currently working on [Codecademy Data Processing with Pandas](https://www.codecademy.com/enrolled/courses/data-processing-pandas)
 
-- 🌱 I’m currently learning **PSQL, Sinatra, Rake**
+- 🌱 I’m currently learning **Python, Pandas, Langchain**
 
 - 🤝 I’m looking for help with [RB175 Optional Project for Sinatra - Cookbook](https://github.com/infinitegame22/cookbook_take2)
 
-- 💬 Ask me about **Ruby**
+- 💬 Ask me about **Pandas**
 
 - 📫 How to reach me **adripchak@yahoo.com**
 
